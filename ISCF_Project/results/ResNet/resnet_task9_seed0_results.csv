@@ -1,0 +1,2 @@
+task,target_domain,seed,best_epoch,best_val_accuracy,test_loss,test_accuracy,training_time_seconds
+9,0,0,8,1.0,2.099101354678472,0.5775,107.80016732215881

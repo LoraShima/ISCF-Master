@@ -1,0 +1,2 @@
+Task,Speed (Hz),Seed,Best Epoch,Train Loss,Train Accuracy (%),Val Loss,Val Accuracy (%),Test Loss,Test Accuracy (%),Training Time (s)
+11,20,5,34,0.00047556485178776916,100.0,0.0068469582904233705,99.83333333333333,0.309407147768264,92.58333333333333,62.08447885513306
